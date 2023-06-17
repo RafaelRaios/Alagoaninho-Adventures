@@ -1,4 +1,4 @@
-from random import randint
+
 from shooter import Shooter
 from texto import *
 import pygame
